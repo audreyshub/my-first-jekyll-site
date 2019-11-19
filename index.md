@@ -12,7 +12,7 @@ sections:
     type: portfolioblock
     layout_style: mosaic
     title: Recent Work
-    subtitle: Check out my projects below
+    subtitle: Take a look at my projects below
     num_projects_displayed: 6
     view_all_text: View All
     view_all_url: portfolio/index.html
@@ -71,7 +71,7 @@ sections:
     component: contact_block.html
     type: contactblock
     title: Contact Me
-    subtitle: Interested in working together? Awesome! Please tell me a bit about your project here.
+    subtitle: Hi there! Thank you so much for your interest in working together. Please tell me a bit about your project here. Looking forward to hearing from you!
 menus:
   main:
     weight: 1

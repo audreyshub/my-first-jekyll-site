@@ -2,8 +2,8 @@
 title: Coming Soon
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
-thumb_img_path: images/5_thumb.jpg
-content_img_path: images/5.jpg
+thumb_img_path: images/4_thumb.jpg
+content_img_path: images/4.jpg
 layout: project
 ---
 

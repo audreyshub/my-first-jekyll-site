@@ -2,7 +2,8 @@ source "https://rubygems.org"
 
 git_source(:github) {|repo_name| "https://github.com/#my-first-jekyll-site" }
 
-gem "jekyll", "~> 3.8.4"
+# gem "jekyll", "~> 3.8.4"
+gem "github-pages", "~> 202"
 
 group :jekyll_plugins do
     gem "jekyll-menus", "~> 0.6.0"

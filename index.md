@@ -6,7 +6,7 @@ sections:
     type: heroblock
     title: 'Hi, I''m Audrey.'
     content: >-    
-      I'm a web designer, developer, artist and tinkerer. I geek out over code as much as good design. I deploy pretty darn cool websites and applications for entrepreneurs and artists.
+      I'm a web designer, developer, artist and tinkerer. I geek out over code as much as good design. I deploy pretty rad websites and applications for entrepreneurs and artists.
   - section_id: latest-projects
     component: portfolio_block.html
     type: portfolioblock

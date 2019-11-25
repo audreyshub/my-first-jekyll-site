@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-git_source(:github) {|repo_name| "https://github.com/#my-first-jekyll-site" }
+git_source(:github) {|repo_name| "https://github.com/#codeisart-jekyll" }
 
 gem "jekyll", "~> 3.8.4"
 gem "github-pages"

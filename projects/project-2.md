@@ -1,9 +1,9 @@
 ---
-title: Flixter
-subtitle: Flixster is a marketplace that offers online courses on coding
+title: Nierika Reiki Master
+subtitle:
 date: '2019-04-30'
-thumb_img_path: images/2flixter_thumb.jpg
-content_img_path: images/2.jpg
+thumb_img_path: images/nierikareikimaster.jpg
+content_img_path: images/nierikareikimaster.jpg
 layout: project
 ---
 

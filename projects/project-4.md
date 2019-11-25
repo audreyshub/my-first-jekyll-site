@@ -1,9 +1,9 @@
 ---
-title: Coming Soon
-subtitle: Optional Project Subtitle
+title: Flixster
+subtitle: Flixster is a marketplace that offers online courses on coding
 date: '2019-02-26'
-thumb_img_path: images/3_thumb.jpg
-content_img_path: images/3.jpg
+thumb_img_path: images/2flixter_thumb.jpg
+content_img_path: images/2.jpg
 layout: project
 ---
 

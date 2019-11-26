@@ -1,6 +1,6 @@
 ---
-title: Nierika Reiki Master
-subtitle:
+title: nierikareikimaster.com
+subtitle: A website for a reiki master
 date: '2019-04-30'
 thumb_img_path: images/nierikareikimaster.jpg
 content_img_path: images/nierikareikimaster.jpg

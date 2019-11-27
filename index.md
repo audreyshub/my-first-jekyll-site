@@ -24,18 +24,13 @@ sections:
     serviceslist:
       - title: Website Design
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+          I build modern JAMstack websites that are fast, secure and dynamic. Think websites/blogs that don't don't rely on WordPress, Wix or SquareSpace. All designs include web hosting, DNS setup, SSL certificates and SEO optimization.
       - title: Landing Page Design
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          A landing page is your handshake, greeting, or smile. I design landing pages that captures the imagination and converts visitors.
       - title: Technical Integrations
         content: >-
-          Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis
-          justo, sit amet condimentum lorem nibh vel quam. Duis consectetur
-          lorem ipsum, non efficitur urna viverra et.
+          Need Aweber, Acuity, Calendly or some other integration but stuck on the how? No worries, sit back and let me handle the technical integrations for you.
   - section_id: testimonials
     component: testimonials_block.html
     type: testimonialsblock
@@ -45,7 +40,7 @@ sections:
       - author: Lego Elvis
         avatar: images/legoman.jpg
         content: >-
-          Audrey is the absolute coolest person to work with. I appreciate her chilled, laid back vibe. Whatever you need she finds a way to get it done.
+          Audrey is so awesome to work with. I love her chilled, laid back vibe. Whatever you need she finds a way to get it done.
       - author: Lego Good Wizard
         avatar: images/legowizard.jpg
         content: >-

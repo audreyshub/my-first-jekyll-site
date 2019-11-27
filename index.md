@@ -6,7 +6,7 @@ sections:
     type: heroblock
     title: 'Hi, I''m Audrey.'
     content: >-    
-      I'm a web designer, developer, artist and tinkerer. I geek out over code as much as good design. I deploy pretty rad websites and applications for entrepreneurs and artists.
+      I'm a web designer, developer, artist and tinkerer. I geek out over code as much as design. I build pretty rad websites and applications for entrepreneurs, artists and organizations that do good.
   - section_id: latest-projects
     component: portfolio_block.html
     type: portfolioblock
@@ -20,14 +20,14 @@ sections:
     component: services_block.html
     type: servicesblock
     title: What I Do
-    subtitle: An optional subtitle of the section
+    subtitle:
     serviceslist:
       - title: Website Design
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla tortor at, pulvinar orci.
-      - title: Landing Pages Design
+      - title: Landing Page Design
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
@@ -40,19 +40,16 @@ sections:
     component: testimonials_block.html
     type: testimonialsblock
     title: Testimonials
-    subtitle: My clients love me
+    subtitle:
     testimonialslist:
-      - author: John Doe
-        avatar: images/john_doe.jpg
+      - author: Lego Elvis
+        avatar: images/legoman.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/jane_roe.jpg
+          Audrey is the absolute coolest person to work with. I appreciate her chilled, laid back vibe. Whatever you need she finds a way to get it done.
+      - author: Lego Good Wizard
+        avatar: images/legowizard.jpg
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          Audrey's work is magic. She spins code into art and does so with love and heart. It's clear that she loves her craft. I endorse her magic.
   - section_id: latest-posts
     component: posts_block.html
     type: postsblock

@@ -40,7 +40,7 @@ sections:
       - author: Lego Elvis
         avatar: images/legoman.jpg
         content: >-
-          Audrey is so awesome to work with. I love her chilled, laid back vibe. Whatever you need she finds a way to get it done.
+          Audrey is awesome to work with. I love her laid back and friendly vibe. She's got a great sense of design and an unshakable technical can-do spirit. Everything she does is awesome!
       - author: Lego Good Wizard
         avatar: images/legowizard.jpg
         content: >-
@@ -58,7 +58,7 @@ sections:
     component: contact_block.html
     type: contactblock
     title: Contact Me
-    subtitle: Hi there! Thank you so much for your interest in working together. Please tell me a bit about your project here. Looking forward to hearing from you!
+    subtitle: Thank you so much for your interest in working together. Please tell me a bit about your project here. Looking forward to hearing from you!
 menus:
   main:
     weight: 1

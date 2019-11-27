@@ -30,7 +30,7 @@ sections:
           A landing page is your handshake, greeting, or smile. I design landing pages that captures the imagination and converts visitors.
       - title: Technical Integrations
         content: >-
-          Need Aweber, Acuity, Calendly or some other integration but stuck on the how? No worries, sit back and let me handle the technical integrations for you.
+          Need Aweber, Acuity, Calendly or some other integration but stuck on the how? No worries, kick back and let me handle the technical integration for you.
   - section_id: testimonials
     component: testimonials_block.html
     type: testimonialsblock

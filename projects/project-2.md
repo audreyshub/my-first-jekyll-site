@@ -1,10 +1,14 @@
 ---
 title: Nierika Reiki Master
-subtitle: A website for a reiki master
+subtitle: A website redesign for a Reiki master
 date: '2019-04-30'
 thumb_img_path: images/nierikareikimaster.jpg
 content_img_path: images/nierikareikimaster.jpg
 layout: project
+links:
+  - text: Visit site
+    url: 'https://www.nierikareikimaster.com'
+    new_window: true
 ---
 
 Urna duis convallis convallis tellus. Tincidunt id aliquet risus feugiat in ante metus dictum. Purus faucibus ornare suspendisse sed nisi lacus sed viverra. Vitae purus faucibus ornare suspendisse sed nisi lacus. Porttitor leo a diam sollicitudin tempor id eu nisl nunc. Leo vel fringilla est ullamcorper eget nulla facilisi etiam. Aliquam ut porttitor leo a diam. Dictum at tempor commodo ullamcorper a lacus. Tortor consequat id porta nibh. Felis donec et odio pellentesque diam volutpat commodo. In nibh mauris cursus mattis molestie a iaculis. Morbi tincidunt ornare massa eget egestas purus viverra accumsan. Tempor commodo ullamcorper a lacus vestibulum. Ipsum nunc aliquet bibendum enim facilisis gravida neque.

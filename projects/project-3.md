@@ -1,20 +1,20 @@
 ---
-title: Planty
-subtitle: A fun project I built using HTML, CSS, JavaScript and jQuery
-date: '2019-04-08'
-thumb_img_path: images/3planty.jpg
-content_img_path: images/3planty.jpg
+title: Nierika Reiki Master
+subtitle: A website redesign for a Reiki master
+date: '2019-04-10'
+thumb_img_path: images/nierikareikimaster.jpg
+content_img_path: images/nierikareikimaster.jpg
 layout: project
 links:
   - text: Visit site
-    url: 'https://audreyshub.github.io/plantproject'
+    url: 'https://www.nierikareikimaster.com'
     new_window: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo. In vitae turpis massa sed. Mauris nunc congue nisi vitae suscipit tellus mauris a. Phasellus egestas tellus rutrum tellus pellentesque. Nulla facilisi morbi tempus iaculis urna id volutpat. Ac tortor vitae purus faucibus ornare suspendisse sed. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Suspendisse interdum consectetur libero id. Quisque egestas diam in arcu. Eget gravida cum sociis natoque penatibus et. Ipsum suspendisse ultrices gravida dictum fusce ut placerat orci. Etiam dignissim diam quis enim. Vestibulum lorem sed risus ultricies tristique nulla aliquet enim tortor. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Nulla malesuada pellentesque elit eget gravida cum sociis natoque. Ut venenatis tellus in metus vulputate eu scelerisque felis. Porttitor eget dolor morbi non arcu risus quis varius quam. Volutpat lacus laoreet non curabitur. Vulputate mi sit amet mauris commodo quis imperdiet massa.
+Urna duis convallis convallis tellus. Tincidunt id aliquet risus feugiat in ante metus dictum. Purus faucibus ornare suspendisse sed nisi lacus sed viverra. Vitae purus faucibus ornare suspendisse sed nisi lacus. Porttitor leo a diam sollicitudin tempor id eu nisl nunc. Leo vel fringilla est ullamcorper eget nulla facilisi etiam. Aliquam ut porttitor leo a diam. Dictum at tempor commodo ullamcorper a lacus. Tortor consequat id porta nibh. Felis donec et odio pellentesque diam volutpat commodo. In nibh mauris cursus mattis molestie a iaculis. Morbi tincidunt ornare massa eget egestas purus viverra accumsan. Tempor commodo ullamcorper a lacus vestibulum. Ipsum nunc aliquet bibendum enim facilisis gravida neque.
 
->"Design adds value faster than it adds costs." - Joel Spolsky
+>"Every great design begins with an even better story." - Lorinda Mamo
 
-Amet risus nullam eget felis eget. Quisque egestas diam in arcu cursus euismod quis. Nibh nisl condimentum id venenatis a condimentum. Condimentum vitae sapien pellentesque habitant morbi. Adipiscing bibendum est ultricies integer quis auctor elit. Velit laoreet id donec ultrices. Neque egestas congue quisque egestas diam. Euismod quis viverra nibh cras pulvinar mattis. Lobortis scelerisque fermentum dui faucibus. Arcu felis bibendum ut tristique. Metus vulputate eu scelerisque felis imperdiet proin fermentum. Enim nunc faucibus a pellentesque sit amet porttitor. Nec nam aliquam sem et tortor consequat. Ullamcorper a lacus vestibulum sed arcu non. Semper quis lectus nulla at volutpat. Lectus magna fringilla urna porttitor rhoncus dolor purus non. Neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. Ut pharetra sit amet aliquam id diam maecenas ultricies. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Morbi tincidunt ornare massa eget.
+Tempor orci eu lobortis elementum nibh. Tincidunt dui ut ornare lectus. Sagittis purus sit amet volutpat consequat mauris nunc. Turpis egestas pretium aenean pharetra. Egestas congue quisque egestas diam. Interdum velit euismod in pellentesque massa. Sapien et ligula ullamcorper malesuada proin libero nunc. Elit at imperdiet dui accumsan sit amet nulla. Facilisi nullam vehicula ipsum a. Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper.
 
-Netus et malesuada fames ac turpis. Morbi tristique senectus et netus. Tempor commodo ullamcorper a lacus vestibulum sed. Id eu nisl nunc mi ipsum. Sed ullamcorper morbi tincidunt ornare. Tellus in metus vulputate eu scelerisque felis. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. Neque volutpat ac tincidunt vitae. Enim diam vulputate ut pharetra sit amet aliquam. In eu mi bibendum neque egestas congue quisque egestas. At imperdiet dui accumsan sit. Diam sit amet nisl suscipit. Tellus in metus vulputate eu. Non pulvinar neque laoreet suspendisse interdum consectetur libero. Fusce ut placerat orci nulla pellentesque dignissim. Neque egestas congue quisque egestas diam in arcu.
+Risus in hendrerit gravida rutrum quisque. Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac. Urna nec tincidunt praesent semper. Elementum nibh tellus molestie nunc non blandit massa enim. Pharetra diam sit amet nisl suscipit adipiscing bibendum est ultricies. Lorem mollis aliquam ut porttitor. Quam quisque id diam vel quam elementum pulvinar etiam non. Sed tempus urna et pharetra pharetra. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Tempor orci dapibus ultrices in iaculis nunc sed. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Eu mi bibendum neque egestas congue quisque. Integer quis auctor elit sed vulputate mi sit. Nullam ac tortor vitae purus faucibus ornare suspendisse sed.

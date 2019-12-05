@@ -24,7 +24,7 @@ sections:
     serviceslist:
       - title: Website Design
         content: >-
-          I build modern JAMstack websites that are fast, secure and dynamic. Think websites/blogs that don't don't rely on WordPress, Wix or SquareSpace. All designs include web hosting, DNS setup, SSL certificates and SEO optimization.
+          I build modern JAMstack websites that are fast, secure and dynamic. Think websites/blogs that don't don't rely on WordPress, Wix or SquareSpace. All designs include web hosting, DNS setup, SSL certificates and SEO.
       - title: Landing Page Design
         content: >-
           A landing page is your handshake, greeting, or smile. I design landing pages that captures the imagination and converts visitors.
@@ -37,10 +37,10 @@ sections:
     title: Testimonials
     subtitle:
     testimonialslist:
-      - author: Lego Elvis
-        avatar: images/legoman.jpg
+      - author: Amber Engeset
+        avatar: images/amber.jpg
         content: >-
-          Audrey is awesome to work with. I love her laid back and friendly vibe. She's got a great sense of design and an unshakable technical can-do spirit. Everything she does is awesome!
+          Audrey is a joy and a pleasure to work with. She is a very creative person and takes great pride in her work. I am so happy with my website that Audrey has helped create. I would highly recommend hiring Audrey for your new or upgraded website needs.
       - author: Lego Good Wizard
         avatar: images/legowizard.jpg
         content: >-

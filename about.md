@@ -9,10 +9,10 @@ menus:
 layout: page
 ---
 
-I'm a dreamer, creative and explorer who made the leap and left a lucrative career at top tech companies to pursue a deep yearning for a life of self-designed work, play, and travel.
+I'm a dreamer, creative and explorer who made the leap and left a career at top tech companies to pursue a deep yearning for a life of self-designed work, play, and travel.
 
 >Tell me, what is it you plan to do with your one wild and precious life? - Mary Oliver
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla.
+Designing a website is a lot like painting. A little intimidating at first wondering if it'll turn out well. You build each section, div by div, element by element, each feature one task at a time. There are times when you hate the process or doubt that you're even good but you persist. Changing fonts, color, pixels, padding, images, writing code one line at a time like poetry. You step away to get perspective but get drawn back to it again and again. Yes, it may be just code but if you do it right, a piece of your heart and soul goes into each website you build.  
 
 *Thank You for reading!*

@@ -12,7 +12,7 @@ sections:
     type: portfolioblock
     layout_style: mosaic
     title: Recent Work
-    subtitle: Take a look at the projects I've built with ❤️ and code.
+    subtitle: These are the projects I've built with ❤️ and code.
     num_projects_displayed: 6
     view_all_text: View All
     view_all_url: portfolio/index.html

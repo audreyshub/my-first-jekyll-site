@@ -4,15 +4,15 @@ sections:
   - section_id: hero
     component: hero_block.html
     type: heroblock
-    title: 'Hi, I''m Audrey.'
+    title: 'Hi, I''m Audrey 🖖'
     content: >-    
-      I'm a web designer, developer, artist and tinkerer. I geek out over code as much as design. I build pretty rad websites and applications for entrepreneurs, artists and organizations that do good.
+      I'm a designer, developer and artist who's excited about code as much as design. I design websites and applications for entrepreneurs, artists and organizations that do good.
   - section_id: latest-projects
     component: portfolio_block.html
     type: portfolioblock
     layout_style: mosaic
     title: Recent Work
-    subtitle: Take a look at the projects I've built below
+    subtitle: Take a look at the projects I've built 👇
     num_projects_displayed: 6
     view_all_text: View All
     view_all_url: portfolio/index.html
@@ -24,13 +24,13 @@ sections:
     serviceslist:
       - title: Website Design
         content: >-
-          I build modern JAMstack websites that are fast, secure and dynamic. Think websites/blogs that don't don't rely on WordPress, Wix or SquareSpace. All designs include web hosting, DNS setup, SSL certificates and SEO.
+          I build modern JAMstack websites that are fast, secure and dynamic. I also design WordPress websites. All designs include web hosting, DNS setup, SSL certificates and basic SEO.
       - title: Landing Page Design
         content: >-
-          A landing page is your handshake, greeting, or smile. I design landing pages that captures the imagination and converts visitors.
+          Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at.
       - title: Technical Integrations
         content: >-
-          Need Aweber, Acuity, Calendly or some other integration but stuck on the how? No worries, kick back and let me handle the technical integration for you.
+          Need Aweber, Acuity, Calendly, Zapier or some other integration but stuck on the how? I love the tech behind how to connect different platforms so that your marketing system is automated and works seamlessly.
   - section_id: testimonials
     component: testimonials_block.html
     type: testimonialsblock

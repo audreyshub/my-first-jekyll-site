@@ -11,10 +11,10 @@ header:
   has_nav: true
 footer:
   content: '&copy; Code is Art. All rights reserved.'
-  links:
-    - text: Made with Stackbit
-      url: 'https://www.stackbit.com'
-      new_window: true
+  # links:
+  #   - text: Made with Stackbit
+  #     url: 'https://www.stackbit.com'
+  #     new_window: true
   has_social: true
 sass:
   indentWidth: 4

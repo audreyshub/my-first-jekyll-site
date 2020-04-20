@@ -1,7 +1,7 @@
 ---
 title: Stripe Payment Demo
 subtitle: This is a Stripe payment gateway demo
-date: '2019-02-25'
+date: '2020-04-19'
 thumb_img_path: images/stripe_app.jpg
 content_img_path: images/stripe_app.jpg
 layout: project

@@ -24,7 +24,7 @@ sections:
     serviceslist:
       - title: Website Design
         content: >-
-          I build modern JAMstack websites that are fast, secure, dynamic and affordable. All website designs include hosting, DNS setup, SSL certificates and basic search engine optimization.
+          I build modern serverless JAMstack websites that are fast, secure and dynamic. All website designs include hosting, DNS setup, SSL certificates and basic search engine optimization.
       - title: Landing Page Design
         content: >-
           Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at.

@@ -1,7 +1,7 @@
 ---
 title: Splurty
 subtitle: An app that randomly splurts out quotes
-date: '2019-05-10'
+date: '2015-01-10'
 thumb_img_path: images/1_thumb.jpg
 content_img_path: images/1.jpg
 layout: project

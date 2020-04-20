@@ -1,13 +1,13 @@
 ---
-title: Coming Soon
-subtitle: This project is currently under construction
+title: Stripe Payment Demo
+subtitle: This is a Stripe payment gateway demo
 date: '2019-02-25'
-thumb_img_path: images/3_thumb.jpg
-content_img_path: images/3.jpg
+thumb_img_path: images/stripe_app.jpg
+content_img_path: images/stripe_app.jpg
 layout: project
 links:
   - text: Visit site
-    url: ''
+    url: 'https://dreamy-fermat-1dd7b5.netlify.app/'
     new_window: true
 ---
 

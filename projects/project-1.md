@@ -6,7 +6,7 @@ thumb_img_path: images/1_thumb.jpg
 content_img_path: images/1.jpg
 layout: project
 links:
-  - text: Visit site
+  - text: Visit site (please allow 10-15 seconds for site to load)
     url: 'https://splurty-audrey-wong.herokuapp.com'
     new_window: true
 ---

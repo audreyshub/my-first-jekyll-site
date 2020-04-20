@@ -12,7 +12,7 @@ sections:
     type: portfolioblock
     layout_style: mosaic
     title: Recent Work
-    subtitle: These are the projects I've built with ❤️ and code.
+    subtitle: These are some of the projects I've built with ❤️ and code.
     num_projects_displayed: 6
     view_all_text: View All
     view_all_url: portfolio/index.html
@@ -24,13 +24,13 @@ sections:
     serviceslist:
       - title: Website Design
         content: >-
-          I build modern JAMstack websites that are fast, secure and dynamic. I also design WordPress websites. All designs include web hosting, DNS setup, SSL certificates and basic SEO.
+          I build modern JAMstack websites that are fast, secure, dynamic and affordable. All website designs include hosting, DNS setup, SSL certificates and basic search engine optimization.
       - title: Landing Page Design
         content: >-
           Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at.
       - title: Technical Integrations
         content: >-
-          Need Aweber, Acuity, Calendly, Zapier or some other integration but stuck on the how? I love the tech behind how to connect different platforms so that your marketing system is automated and works seamlessly.
+          Need Aweber, Acuity, Calendly, Stripe, Zapier or some other integration but stuck on the how? I love the tech behind how to connect different platforms so that your marketing system is automated and works seamlessly.
   - section_id: testimonials
     component: testimonials_block.html
     type: testimonialsblock

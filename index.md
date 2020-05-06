@@ -6,7 +6,7 @@ sections:
     type: heroblock
     title: 'Hi, I''m Audrey 🖖'
     content: >-    
-      I'm a designer, developer and artist who's excited about code as much as design. I design websites and applications for entrepreneurs, artists and organizations that are for people, profit, planet.
+      I'm a designer, developer and artist who's excited about code as much as design. I design websites and applications for entrepreneurs, artists and organizations that are for people, planet, profit.
   - section_id: latest-projects
     component: portfolio_block.html
     type: portfolioblock

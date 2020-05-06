@@ -10,7 +10,7 @@ header:
   title: Code is Art
   has_nav: true
 footer:
-  content: '🖖 &copy; 2020. Code is Art'
+  content: '🖖&copy; 2020. Code is Art. No cookies are used on this site.'
   # links:
   #   - text: Made with Stackbit
   #     url: 'https://www.stackbit.com'

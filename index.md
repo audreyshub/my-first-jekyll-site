@@ -6,7 +6,7 @@ sections:
     type: heroblock
     title: 'Hi, I''m Audrey 🖖'
     content: >-    
-      I'm a designer, developer and artist who's excited about code as much as design. I design websites and applications for entrepreneurs, artists and organizations that are for people, planet, profit.
+      I'm a designer, developer and artist who's excited about code as much as design. I design websites for entrepreneurs, artists and organizations that are for people, planet, profit.
   - section_id: latest-projects
     component: portfolio_block.html
     type: portfolioblock
@@ -22,15 +22,18 @@ sections:
     title: What I Do
     subtitle:
     serviceslist:
-      - title: Website Design
+      - title: WordPress
         content: >-
-          I build modern serverless JAMstack websites that are fast, secure and dynamic. All website designs include hosting, DNS setup, SSL certificates and basic search engine optimization.
-      - title: Landing Page Design
+          Pie marshmallow bear claw cheesecake lollipop cake chocolate tart. Biscuit wafer danish sesame snaps caramels cake cake topping. Chocolate cupcake chocolate cake.
+      - title: Drupal
         content: >-
-          Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at.
-      - title: Technical Integrations
+          Macaroon jujubes cupcake candy marzipan apple pie cookie chocolate bar tart. Muffin tiramisu chupa chups chocolate cake sweet roll. Soufflé cupcake soufflé candy canes cupcake sweet. Gingerbread sugar plum soufflé brownie soufflé jelly beans.
+      - title: JAMstack
         content: >-
-          Need Aweber, Acuity, Calendly, Stripe, Zapier or some other integration but stuck on the how? I love the tech behind how to connect different platforms so that your marketing system is automated and works seamlessly.
+          Croissant topping cotton candy. Ice cream chupa chups wafer bear claw tootsie roll soufflé jujubes. Soufflé halvah sugar plum cake caramels soufflé.
+      - title: Squarespace
+        content: >-
+          Powder donut sweet cake ice cream. Lollipop jujubes muffin muffin. Jujubes biscuit chocolate cupcake marshmallow danish sugar plum. Marzipan croissant lollipop cookie carrot cake.
   - section_id: testimonials
     component: testimonials_block.html
     type: testimonialsblock

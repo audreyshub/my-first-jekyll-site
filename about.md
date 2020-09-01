@@ -4,7 +4,7 @@ title: About Me
 img_path: images/audrey_china.jpg
 menus:
   main:
-    weight: 4
+    weight: 2
     title: About
 layout: page
 ---

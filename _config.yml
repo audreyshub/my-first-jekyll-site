@@ -1,4 +1,4 @@
-title: Code is Art
+title: Super Squirrel
 baseurl: /
 permalink: '/:title/'
 collections:
@@ -7,10 +7,10 @@ collections:
 color_scheme: light
 accent_color: pink
 header:
-  title: Code is Art
+  title: Super Squirrel
   has_nav: true
 footer:
-  content: '🖖&copy; 2020. Code is Art. No cookies are used on this site.'
+  content: '🐿️&copy; 2020. Super Squirrel. No cookies are used on this website.'
   # links:
   #   - text: Made with Stackbit
   #     url: 'https://www.stackbit.com'

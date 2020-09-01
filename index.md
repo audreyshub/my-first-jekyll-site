@@ -4,9 +4,9 @@ sections:
   - section_id: hero
     component: hero_block.html
     type: heroblock
-    title: 'Hi, I''m Audrey 🖖'
+    title: 'Hi, I''m Audrey'
     content: >-    
-      I'm a designer, developer and artist who's excited about code as much as design. I design websites for entrepreneurs, artists and organizations that are for people, planet, profit.
+      I'm a designer, developer and artist who's excited about code as much as design. I design and develop websites for entrepreneurs, artists and organizations that are for people, planet, profit. <i>I also love squirrels!</i>
   - section_id: latest-projects
     component: portfolio_block.html
     type: portfolioblock

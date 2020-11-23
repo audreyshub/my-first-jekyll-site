@@ -24,16 +24,16 @@ sections:
     serviceslist:
       - title: WordPress Development
         content: >-
-          I build WordPress websites using Genesis starter themes or a custom theme with Underscores.
+          Custom websites or I can build with themes.
       - title: Front-End Development
         content: >-
-          I spin design mockups into production ready code using HTML, CSS, JavaScript.
+          You design I code!
       - title: Jamstack Development
         content: >-
-          Croissant topping cotton candy. Ice cream chupa chups wafer bear claw tootsie roll soufflé jujubes. Soufflé halvah sugar plum cake caramels soufflé.
+          Fast, secure, low-cost, no-maintenance websites.
       - title: Technical VA
         content: >-
-          Powder donut sweet cake ice cream. Lollipop jujubes muffin muffin. Jujubes biscuit chocolate cupcake marshmallow danish sugar plum. Marzipan croissant lollipop cookie carrot cake.
+          I love finding solutions to technical challenges.
   - section_id: testimonials
     component: testimonials_block.html
     type: testimonialsblock

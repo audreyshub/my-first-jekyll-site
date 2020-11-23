@@ -1,12 +1,12 @@
 ---
-title: Home
+title: Audrey Wong
 sections:
   - section_id: hero
     component: hero_block.html
     type: heroblock
-    title: 'Hi, I''m Audrey'
+    title: 'Hi, I''m Audrey 👋'
     content: >-    
-      I'm a designer, developer and artist who's excited about code as much as design. I design and develop websites for entrepreneurs, artists and organizations that are for people, planet, profit. <i>I also love squirrels!</i>
+      I'm a developer, designer and artist who loves coding as much as design. I design and develop websites for entrepreneurs, artists and organizations that are for people, planet, profit. I also love squirrels!
   - section_id: latest-projects
     component: portfolio_block.html
     type: portfolioblock
@@ -22,16 +22,16 @@ sections:
     title: What I Do
     subtitle:
     serviceslist:
-      - title: WordPress
+      - title: WordPress Development
         content: >-
-          Pie marshmallow bear claw cheesecake lollipop cake chocolate tart. Biscuit wafer danish sesame snaps caramels cake cake topping. Chocolate cupcake chocolate cake.
-      - title: Drupal
+          I build WordPress websites using Genesis starter themes or a custom theme with Underscores.
+      - title: Front-End Development
         content: >-
-          Macaroon jujubes cupcake candy marzipan apple pie cookie chocolate bar tart. Muffin tiramisu chupa chups chocolate cake sweet roll. Soufflé cupcake soufflé candy canes cupcake sweet. Gingerbread sugar plum soufflé brownie soufflé jelly beans.
-      - title: JAMstack
+          I spin design mockups into production ready code using HTML, CSS, JavaScript.
+      - title: Jamstack Development
         content: >-
           Croissant topping cotton candy. Ice cream chupa chups wafer bear claw tootsie roll soufflé jujubes. Soufflé halvah sugar plum cake caramels soufflé.
-      - title: Squarespace
+      - title: Technical VA
         content: >-
           Powder donut sweet cake ice cream. Lollipop jujubes muffin muffin. Jujubes biscuit chocolate cupcake marshmallow danish sugar plum. Marzipan croissant lollipop cookie carrot cake.
   - section_id: testimonials
@@ -41,7 +41,7 @@ sections:
     subtitle:
     testimonialslist:
       - author: Amber Engeset
-        avatar: images/amber.jpg
+        <!-- avatar: images/amber.jpg -->
         content: >-
           Audrey is a joy and a pleasure to work with. She is a very creative person and takes great pride in her work. I am so happy with my website that Audrey has helped create. I would highly recommend hiring Audrey for your new or upgraded website needs.
       - author: Lego Good Wizard
@@ -52,7 +52,7 @@ sections:
     component: posts_block.html
     type: postsblock
     title: Latest from the Blog
-    subtitle: My thoughts on design, code, life
+    subtitle: My thoughts on design, code, squirrels
     num_posts_displayed: 2
     actions:
       - label: View Blog

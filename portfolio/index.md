@@ -4,7 +4,7 @@ subtitle:
 layout_style: mosaic
 menus:
   main:
-    weight: 3
+    weight: 2
     title: Portfolio
 layout: portfolio
 ---

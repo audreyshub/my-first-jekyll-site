@@ -6,7 +6,7 @@ sections:
     type: heroblock
     title: 'Hi, I''m Audrey 👋'
     content: >-    
-      I'm a developer, designer and artist who loves coding as much as design. I design and develop websites for entrepreneurs, artists and organizations that are for people, planet, profit. I also love squirrels!
+      I'm a developer, designer and artist who loves coding as much as design. I design and develop websites for dreamers, seekers, artists and orgs that are for people and planet.
   - section_id: latest-projects
     component: portfolio_block.html
     type: portfolioblock
@@ -24,7 +24,7 @@ sections:
     serviceslist:
       - title: WordPress Development
         content: >-
-          Custom websites or I can build with themes.
+          Custom websites or I can build using themes.
       - title: Front-End Development
         content: >-
           You design I code!
@@ -33,7 +33,7 @@ sections:
           Fast, secure, low-cost, no-maintenance websites.
       - title: Technical VA
         content: >-
-          I love finding solutions to technical challenges.
+          I thrive on finding solutions to technical challenges.
   - section_id: testimonials
     component: testimonials_block.html
     type: testimonialsblock

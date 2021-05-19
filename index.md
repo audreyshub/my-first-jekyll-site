@@ -6,13 +6,13 @@ sections:
     type: heroblock
     title: 'Hi, I''m Audrey 👋'
     content: >-    
-      I'm a developer, designer and artist who loves coding as much as design. I design and develop websites for dreamers, seekers, artists and orgs that are for people and planet.
+      I'm a developer, designer and artist who loves coding as much as design. I develop websites for leaders, seekers, healers, and artists who are making a difference in their communities.
   - section_id: latest-projects
     component: portfolio_block.html
     type: portfolioblock
     layout_style: mosaic
     title: Recent Work
-    subtitle: These are some of the projects I've built with ❤️ and code.
+    subtitle: These are some of the projects I've built with ❤️ and code
     num_projects_displayed: 6
     view_all_text: View All
     view_all_url: portfolio/index.html
@@ -28,9 +28,9 @@ sections:
       - title: Front-End Development
         content: >-
           You design I code!
-      - title: Jamstack Development
+      - title: Static Site Development
         content: >-
-          Fast, secure, low-cost, no-maintenance websites.
+          Fast, secure, low-cost, no-maintenance, modern websites.
       - title: Technical VA
         content: >-
           I thrive on finding solutions to technical challenges.

@@ -9,7 +9,7 @@ menus:
 layout: page
 ---
 
-I'm a dreamer, creative and explorer who made the leap and left a career at top tech companies to pursue a deep yearning for a life of self-designed work, play, and travel.
+I'm a dreamer, creative and explorer who gave up a career at top tech companies to pursue a deep yearning for a life of self-designed work, play, and travel. I'm driven by the desire to use my coding skills for good.
 
 >Tell me, what is it you plan to do with your one wild and precious life? - Mary Oliver
 

@@ -5,5 +5,5 @@ command = "./stackbit-build.sh"
 [[plugins]]
 package = "@netlify/plugin-lighthouse"
 
-[[plugins.inputs.audits]]
-url = "https//www.audreywong.dev"
+[[plugins.inputs]]
+url = "https//audreywong.dev"

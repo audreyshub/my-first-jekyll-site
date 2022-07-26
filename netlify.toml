@@ -1,3 +1,9 @@
 [build]
 publish = "_site"
 command = "./stackbit-build.sh"
+
+[[plugins]]
+plugins = "@netlify/plugin-lighthouse"
+
+    [plugins.inputs]
+        output_path = "reports/lighthouse.html"

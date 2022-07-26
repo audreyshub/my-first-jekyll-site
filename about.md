@@ -1,6 +1,6 @@
 ---
 title: About Me
-<!-- subtitle: This is a short page about me and my journey -->
+<!-- subtitle: This is a short page about me and my journey. -->
 img_path: images/audrey_china.jpg
 menus:
   main:

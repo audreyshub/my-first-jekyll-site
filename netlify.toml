@@ -7,3 +7,9 @@ package = "@netlify/plugin-lighthouse"
 
 [[plugins.inputs.audits]]
 url = "https//audreywong.dev"
+
+[[redirects]]
+from = "/contact"
+to = "https://littlebannerlady.com"
+status = 200
+force = true

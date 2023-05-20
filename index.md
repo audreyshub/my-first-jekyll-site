@@ -40,10 +40,6 @@ sections:
     title: Testimonials
     subtitle:
     testimonialslist:
-      - author: Amber Engeset
-        <!-- avatar: images/amber.jpg -->
-        content: >-
-          Audrey is a joy and a pleasure to work with. She is a very creative person and takes great pride in her work. I am so happy with my website that Audrey has helped create. I would highly recommend hiring Audrey for your new or upgraded website needs.
       - author: Lego Good Wizard
         avatar: images/legowizard.jpg
         content: >-
